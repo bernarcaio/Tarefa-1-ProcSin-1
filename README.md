@@ -1,2 +1,3 @@
 # Tarefa-1-ProcSin-1
-Aula Prática 1 - Sinais e Sistemas - Processamento de Sinais I - CEFET/RJ
+Aula Prática 1 - Processamento de Sinais I - CEFET/RJ
+Caio Bernardo Maciel
